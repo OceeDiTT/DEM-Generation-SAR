@@ -14,7 +14,7 @@ To minimize atmospheric effects such as humidity and precipitation, SAR scenes w
 
 ## Data Source & Acquisition
 
-The SAR data used in this project were obtained from Copernicus Programme and correspond to Sentinel-1 acquisitions in SLC IW (Single Look Complex – Interferometric Wide Swath) mode. All selected Sentinel-1 SLC IW scenes were downloaded directly from the Copernicus data hub and subsequently processed in SNAP for interferometric DEM generation.
+The SAR data used in this project were obtained from Copernicus Programme and correspond to Sentinel-1 acquisitions in SLC IW (Single Look Complex – Interferometric Wide Swath) mode. All selected Sentinel-1 SLC IW scenes were downloaded directly from the Copernicus data hub and subsequently processed in SNAP for interferometric DEM generation. The specidfic images and study boundaries can be found in the `helplist.txt` file.
 
 
 ## Image Selection Criteria
